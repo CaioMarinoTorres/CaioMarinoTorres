@@ -1,16 +1,26 @@
-## Hi there 👋
+  ### Olá, me chamo [Caio Marino](https://www.linkedin.com/in/caiomarino)👋 
+  
+  Sou um desenvolvedor web, entusiasta da tecnologia que está sempre buscando expandir seus conhecimentos.
 
-<!--
-**CaioMarinoTorres/CaioMarinoTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Skills:
 
-Here are some ideas to get you started:
+  ### Linguagens:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![JAVA](https://img.shields.io/badge/JAVA-icon?style=for-the-badge&logoColor=%23F44336&logoSize=auto&color=red)&nbsp;
+
+  ### FrameWorks:
+
+  ![Angular](https://img.shields.io/badge/ANGULAR-icon?style=for-the-badge&logo=angular&logoColor=%230F0F11&logoSize=auto&color=white)
+
+  ### Database:
+
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+  ### Ferramentas:
+
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+  ## Contato
+
+  [![Static Badge](https://img.shields.io/badge/Linkedin-icon?style=for-the-badge&logo=linkedin&logoColor=%230F0F11&logoSize=auto&color=blue)](https://www.linkedin.com/in/caiomarino)
