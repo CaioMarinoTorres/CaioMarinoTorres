@@ -7,6 +7,11 @@
   ### Linguagens:
 
   ![JAVA](https://img.shields.io/badge/JAVA-icon?style=for-the-badge&logoColor=%23F44336&logoSize=auto&color=red)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/typescript-icon?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+  ![JavaScript](https://img.shields.io/badge/javascript-icon?style=for-the-badge&logo=javascript&logoColor=white&color=orange)
+  ![Html](https://img.shields.io/badge/html-icon?style=for-the-badge&logo=html5&logoColor=white&color=red)
+  ![Css](https://img.shields.io/badge/css-icon?style=for-the-badge&logo=css&logoColor=white&color=blue)
+
 
   ### FrameWorks:
 
