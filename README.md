@@ -11,6 +11,7 @@
   ### FrameWorks:
 
   ![Angular](https://img.shields.io/badge/ANGULAR-icon?style=for-the-badge&logo=angular&logoColor=%230F0F11&logoSize=auto&color=white)
+  ![Static Badge](https://img.shields.io/badge/Spring-icon?style=for-the-badge&logo=spring&logoColor=white&color=green)
 
   ### Database:
 
