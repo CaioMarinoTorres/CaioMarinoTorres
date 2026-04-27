@@ -11,7 +11,6 @@
 * 🎯 Atuação como **Fullstack Developer**
 * 🔧 Foco principal em backend com Java e Spring Boot
 * 🌐 Experiência com frontend utilizando Angular
-* 🧠 Estudando arquitetura, APIs REST e integração entre camadas
 * 📈 Evolução contínua através de projetos próprios
 
 ---
