@@ -1,32 +1,87 @@
-  ### Olá, me chamo [Caio Marino](https://www.linkedin.com/in/caiomarino)👋 
-  
-  Sou um desenvolvedor web, entusiasta da tecnologia que está sempre buscando expandir seus conhecimentos.
+# 👋 Olá, eu sou o Caio Marino
 
-  ## Skills:
+💻 Desenvolvedor **Fullstack**, com foco em **Java + Spring Boot no backend** e experiência com **Angular no frontend**.
 
-  ### Linguagens:
+🚀 Construindo aplicações completas, evoluindo de forma prática com projetos que integram backend, frontend e boas práticas de desenvolvimento.
 
-  ![JAVA](https://img.shields.io/badge/JAVA-icon?style=for-the-badge&logoColor=%23F44336&logoSize=auto&color=red)&nbsp;
-  ![Html](https://img.shields.io/badge/html-icon?style=for-the-badge&logo=html5&logoColor=white&color=red)
-  ![JavaScript](https://img.shields.io/badge/javascript-icon?style=for-the-badge&logo=javascript&logoColor=white&color=orange)
-  ![TypeScript](https://img.shields.io/badge/typescript-icon?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-  ![Css](https://img.shields.io/badge/css-icon?style=for-the-badge&logo=css&logoColor=white&color=blue)
+---
 
+## 🧭 Sobre mim
 
-  ### FrameWorks:
+* 🎯 Atuação como **Fullstack Developer**
+* 🔧 Foco principal em backend com Java e Spring Boot
+* 🌐 Experiência com frontend utilizando Angular
+* 🧠 Estudando arquitetura, APIs REST e integração entre camadas
+* 📈 Evolução contínua através de projetos próprios
 
-  ![Angular](https://img.shields.io/badge/ANGULAR-icon?style=for-the-badge&logo=angular&logoColor=%230F0F11&logoSize=auto&color=white)
-  ![Static Badge](https://img.shields.io/badge/Spring-icon?style=for-the-badge&logo=spring&logoColor=white&color=green)
+---
 
-  ### Database:
+## 🚀 Stack principal
 
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+### Backend
 
-  ### Ferramentas:
+![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-Boot-brightgreen?style=for-the-badge\&logo=spring\&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+### Frontend
 
-  ## Contato
+![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge\&logo=angular)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3\&logoColor=white)
 
-  [![Static Badge](https://img.shields.io/badge/Linkedin-icon?style=for-the-badge&logo=linkedin&logoColor=%230F0F11&logoSize=auto&color=blue)](https://www.linkedin.com/in/caiomarino)
+### Banco de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🎲 RPG Character Manager API
+
+Backend em desenvolvimento com foco em gerenciamento de fichas de RPG (D&D 5e), estruturado para evoluir como uma plataforma completa.
+
+🔗 https://github.com/CaioMarinoTorres/projeto-rpg-api
+
+---
+
+### 🍽️ Hora do Rango API
+
+API REST para gestão de restaurantes, com estrutura organizada e foco em boas práticas.
+
+🔗 https://github.com/CaioMarinoTorres/projeto-hora-do-rango
+
+---
+
+### 📇 Projeto Contatos
+
+Aplicação web com Java + Thymeleaf, integrando backend e frontend em uma mesma aplicação.
+
+🔗 https://github.com/CaioMarinoTorres/projeto-contatos
+
+---
+
+### 📜 Projeto Cordel
+
+Projeto front-end com HTML e CSS, explorando efeitos visuais e experiência de usuário.
+
+🔗 https://github.com/CaioMarinoTorres/projeto-cordel
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como **desenvolvedor fullstack**, construindo aplicações completas, bem estruturadas e próximas de cenários reais de mercado.
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caiomarino)
