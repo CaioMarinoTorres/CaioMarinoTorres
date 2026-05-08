@@ -43,19 +43,19 @@
 
 ## 📌 Projetos em destaque
 
-### 🎲 RPG Character Manager API
-
-Backend em desenvolvimento com foco em gerenciamento de fichas de RPG (D&D 5e), estruturado para evoluir como uma plataforma completa.
-
-🔗 https://github.com/CaioMarinoTorres/projeto-rpg-api
-
----
-
 ### 🍽️ Hora do Rango API
 
 API REST para gestão de restaurantes, com estrutura organizada e foco em boas práticas.
 
 🔗 https://github.com/CaioMarinoTorres/projeto-hora-do-rango
+
+---
+
+### 🎲 RPG Character Manager API
+
+Backend em desenvolvimento com foco em gerenciamento de fichas de RPG (D&D 5e), estruturado para evoluir como uma plataforma completa.
+
+🔗 https://github.com/CaioMarinoTorres/projeto-rpg-api
 
 ---
 
